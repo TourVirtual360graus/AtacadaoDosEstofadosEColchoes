@@ -1,0 +1,104 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=%2B5548999823617
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=%2B5548999823617
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=%2B5548999823617
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=%2B5548999823617
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://search.google.com/local/writereview?placeid=ChIJzSp0-CZJJ5URDPk1CTiyxmI
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://search.google.com/local/writereview?placeid=ChIJzSp0-CZJJ5URDPk1CTiyxmI
+LinkBehaviour_432DFE7B_4C02_92DD_41D4_5C5BAB1AD98A.source = https://www.escritolandia.com.br/
+LinkBehaviour_0EC8CA5C_1EBD_F1A2_41B0_717140FE12E8.source = https://www.escritolandia.com.br/
+LinkBehaviour_106F98E3_1E9C_1266_41B5_1E696ED9292C.source = https://www.escritolandia.com.br/
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://www.escritolandia.com.br/
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/atacadaodoscolchoesreal
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/atacadaodoscolchoesreal
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Atacad%C3%A3o+dos+Estofados+e+Colch%C3%B5es/@-27.5736137,-48.6005178,15z/data=!4m5!3m4!1s0x0:0x62c6b2380935f90c!8m2!3d-27.5736137!4d-48.6005178?hl=pt-BR
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Atacad%C3%A3o+dos+Estofados+e+Colch%C3%B5es/@-27.5736137,-48.6005178,15z/data=!4m5!3m4!1s0x0:0x62c6b2380935f90c!8m2!3d-27.5736137!4d-48.6005178?hl=pt-BR
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/atacadaodoscolchoesreal/
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/atacadaodoscolchoesreal/
+
+## Media
+
+### Audio
+audio_BF01EB2A_A8A8_F4C7_41CD_EB4318674AD8.path = null
+audio_BC72D913_A8F7_B4C5_41D5_32193F2933F7.path = null
+audiores_BF67F747_A8A8_5B4D_41D3_126E35CC9534.mp3Url = media/audio_BC72D913_A8F7_B4C5_41D5_32193F2933F7_pt.mp3
+audiores_BF67F747_A8A8_5B4D_41D3_126E35CC9534.oggUrl = media/audio_BC72D913_A8F7_B4C5_41D5_32193F2933F7_pt.ogg
+audiores_BF526545_A8A8_5F4D_41DB_A3D6984C5003.mp3Url = media/audio_BF01EB2A_A8A8_F4C7_41CD_EB4318674AD8_pt.mp3
+audiores_BF526545_A8A8_5F4D_41DB_A3D6984C5003.oggUrl = media/audio_BF01EB2A_A8A8_F4C7_41CD_EB4318674AD8_pt.ogg
+
+### Title
+panorama_AD18665F_9958_FD7D_41C7_1F075D90312C.label = 06112022-IMG_20221104_133107_00_merged-DeNoiseAI-standard
+panorama_AD1B8EDA_9958_ED44_41D8_612501811DB0.label = 06112022-IMG_20221104_133335_00_merged-DeNoiseAI-standard
+panorama_AA0301F3_9958_5745_41C0_4D4AAE5BA5C3.label = 1 sem tripé-DeNoiseAI-standard
+panorama_AD18912D_995B_B4DD_41CA_B894F29EAEE6.label = 10 sem tripe-DeNoiseAI-standard
+panorama_AD18C964_995B_B743_41D1_4D8528EB6E52.label = 11  sem  tripe-DeNoiseAI-standard
+panorama_AD1B71E3_9958_5745_41DF_A2650C5E1DB0.label = 12 sem tripe-DeNoiseAI-standard
+panorama_AD1B5A33_9958_54C4_41E0_56455AFCD534.label = 13 sem tripe-DeNoiseAI-standard
+panorama_AD1B8304_9958_74CC_41D7_05E876E8806E.label = 14 sem tripe-DeNoiseAI-standard
+panorama_AD1BDBD0_9958_6B43_41BF_28ACE7AE40C2.label = 15 sem tripe-DeNoiseAI-standard
+panorama_AD1B841C_9958_5CC3_41E0_89126A322421.label = 16 sem tripe-DeNoiseAI-standard
+panorama_AD1B7C68_9958_AD44_41E0_0396A9A662F1.label = 17 sem tripe-DeNoiseAI-standard
+panorama_AD1BE493_9958_BDC5_41B7_DEF078DEEDF5.label = 18 sem tripe-DeNoiseAI-standard
+panorama_AD1B9CCC_9958_AD43_41CD_760216E02C7D.label = 19 sem tripe-DeNoiseAI-standard
+panorama_AD18ECE1_995B_AD44_41DF_27E12560A232.label = 2 sem tripé-DeNoiseAI-standard
+panorama_AD1BA567_9958_DF4D_41C2_0434F4D95166.label = 20 sem tripe-DeNoiseAI-standard
+panorama_AD1B8DAC_9958_EFDC_41C1_3AA82BFD48F9.label = 21 sem tripe-DeNoiseAI-standard
+panorama_AD1954FF_995B_BD3D_41DA_C664E67A54F8.label = 3 sem tripé-DeNoiseAI-standard
+panorama_AD18ED8E_995B_AFDC_41D3_B0EBB04D306C.label = 4 csem tripé-DeNoiseAI-standard
+panorama_AD18C5FC_995B_DF43_41DE_F89A995B62B7.label = 5 sem tripé-DeNoiseAI-standard
+panorama_AD188EAB_995B_EDC5_41B6_4E470E44728A.label = 6 sem tripé-DeNoiseAI-standard
+panorama_AD1897CD_995B_FB5D_41B4_A6A0AEF846BE.label = 7 sem tripé-DeNoiseAI-standard
+panorama_AD185061_995B_D544_41DF_F50DFD30CC04.label = 8 sem tripe-DeNoiseAI-standard
+panorama_AD18C8DD_995B_D57D_41DB_56CF6E3DC0A8.label = 9 sem tripe-DeNoiseAI-standard
+panorama_B9C0B288_A8A8_55C3_41D0_91BB49703142.label = aerea sem noise 2-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = FALE CONOSCO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = FALE CONOSCO
+
+### Image
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.url = skin/Image_431B85D3_4C07_762D_41D5_D99ABD1F917C_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual e Conheça Nossa Loja
+
+### Title
+tour.name = Atacadão dos Estofados e Colchões
